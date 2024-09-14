@@ -132,11 +132,16 @@ span{
         justify-content:flex-end;
         z-index: 2;
     }
+    nav ul img{
+        display: flex;
+        flex-direction: column;
+        justify-content:flex-end;
+        z-index: 2;
+    }
     .info {
         z-index: 3;
     }
     .img-box{
-        display: flex;
-        justify-content: flex-end;
+        left: auto;
     }
 }
