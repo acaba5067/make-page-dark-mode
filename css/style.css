@@ -124,6 +124,7 @@ span{
 {
     .hero{
         width:740px;
+        height: 100%;
     }
     nav ul{
         display: flex;
@@ -133,5 +134,9 @@ span{
     }
     .info {
         z-index: 3;
+    }
+    .img-box{
+        display: flex;
+        justify-content: flex-end;
     }
 }
