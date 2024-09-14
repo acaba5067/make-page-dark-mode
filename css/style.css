@@ -132,7 +132,7 @@ span{
         justify-content:flex-end;
         z-index: 2;
     }
-    nav ul img{
+    nav ul #icon{
         display: flex;
         flex-direction: column;
         justify-content:flex-end;
